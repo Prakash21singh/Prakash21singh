@@ -72,10 +72,9 @@ AI-powered repository insights & deployment platform
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prakash21singh&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash21singh&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=prakash21singh)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prakash21singh&theme=transparent&hide_border=true)
 
 ---
 
