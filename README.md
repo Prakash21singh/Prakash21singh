@@ -73,8 +73,8 @@ AI-powered repository insights & deployment platform
 ## 📊 GitHub Analytics
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prakash21singh&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash21singh&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
