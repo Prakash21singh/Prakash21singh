@@ -1,93 +1,90 @@
 # Hi, I'm Prakash Kumar Singh 👋
 
 🚀 MERN Stack Developer | Open Source Contributor | Full-Stack Engineer  
-💡 I build scalable web applications and developer-focused services.
+💡 Building scalable web applications and developer-focused services.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a Full-Stack Developer
-- 🌱 Focused on building scalable and production-ready systems
-- 🤝 Open Source Contributor
-- ⚡ Strong interest in system design, real-time apps, and modern web architecture
-- 📫 Reach me at: **pk87096639@gmail.com**
+- 🔭 Full-Stack Developer focused on production-grade systems  
+- 🌱 Currently exploring microservices, real-time systems, and AI integrations  
+- 🤝 Active Open Source Contributor  
+- ⚡ Strong interest in system design and performance engineering  
+- 📫 Contact: **pk87096639@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
-- React.js  
-- Next.js  
-- TypeScript  
-- Tailwind CSS  
-- Shadcn UI  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</p>
 
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
-- Hono  
-- REST APIs  
-- Server Actions  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄 Database & ORM
-- MongoDB  
-- PostgreSQL  
-- Prisma  
-- SQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
 
 ### 🔄 DevOps & Tools
-- Docker  
-- AWS  
-- CI/CD  
-- Git & GitHub  
-- Cloudflare  
-- Vercel  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,cloudflare" />
+</p>
 
 ### 📡 Real-Time & Advanced
-- WebRTC  
-- Socket.io  
-- Microservices Architecture  
-- Message Queues (Kafka basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=websocket,kafka" />
+</p>
 
 ---
 
 ## 🧠 Core Strengths
 
-- ✅ Full-Stack Web Development  
-- ✅ Scalable System Design  
-- ✅ Authentication & Authorization  
-- ✅ API Design & Integration  
-- ✅ Performance Optimization  
-- ✅ Real-Time Application Development  
-- ✅ Clean and Maintainable Code  
+- Full-Stack Web Development  
+- Scalable System Design  
+- Authentication & Authorization  
+- API Design & Integration  
+- Real-Time Applications  
+- Clean & Maintainable Code  
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Highlight Project
 
-> 🔹 **Codora** – AI-powered repository insights & deployment platform  
-- GitHub repo analysis  
+### 🔹 Codora
+AI-powered repository insights & deployment platform
+
+**Key Features**
+- GitHub repository analysis  
 - Auto README generation  
 - One-click deployment workflows  
-- Built with Next.js, Prisma, and modern AI integrations  
+- Developer productivity insights  
+
+**Tech:** Next.js · Prisma · Node.js · AI APIs
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakash21singh&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash21singh&layout=compact)
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: **pk87096639@gmail.com**
-- 💼 Open to collaboration, freelance, and full-time opportunities
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
-⭐️ *Building systems that scale, not just projects that run.*
+## 🤝 Open to Opportunities
+
+💼 Full-time roles • Freelance • Open Source Collaboration  
+
+📧 **pk87096639@gmail.com**
+
+---
+
+⭐️ *I build systems that scale, not just apps that run.*
